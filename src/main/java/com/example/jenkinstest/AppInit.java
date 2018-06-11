@@ -11,7 +11,7 @@ public class AppInit implements ApplicationRunner {
 
     public void run(ApplicationArguments args) throws Exception {
         log.info("==============================");
-        log.info("App runs !!!!!!!!!!");
+        log.info("App runs2 !!!!!!!!!!");
         log.info("==============================");
     }
 }
